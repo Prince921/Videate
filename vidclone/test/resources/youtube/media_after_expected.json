@@ -1,0 +1,21 @@
+{
+    "$": "list",
+    "": [
+        {
+            "$": "Media",
+            "title": "Title 3",
+            "description": "Description 3",
+            "source": {
+                "platform": {
+                    "uri": "https://www.youtube.com",
+                    "id": "youtube"
+                },
+                "uri": "https://www.youtube.com/watch?v=00000000003",
+                "id": "00000000003",
+                "releaseDate": "2020-01-03T00:00:00.000Z"
+            },
+            "creators": [],
+            "duration": "0:03:33.000000"
+        }
+    ]
+}

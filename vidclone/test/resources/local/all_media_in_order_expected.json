@@ -1,0 +1,59 @@
+{
+    "$": "list",
+    "": [
+        {
+            "$": "Media",
+            "title": "video_3",
+            "description": "video_3.mp4",
+            "source": {
+                "platform": {
+                    "uri": "/",
+                    "id": "local"
+                },
+                "uri": "test/resources/media/video_3.mp4",
+                "id": "video_3",
+                "releaseDate": "1970-01-01T00:00:00.000Z"
+            },
+            "creators": [
+                "Mike Miller"
+            ],
+            "duration": "0:00:06.038000"
+        },
+        {
+            "$": "Media",
+            "title": "video_2",
+            "description": "video_2.mp4",
+            "source": {
+                "platform": {
+                    "uri": "/",
+                    "id": "local"
+                },
+                "uri": "test/resources/media/video_2.mp4",
+                "id": "video_2",
+                "releaseDate": "1970-01-01T00:00:00.000Z"
+            },
+            "creators": [
+                "Mike Miller"
+            ],
+            "duration": "0:00:06.038000"
+        },
+        {
+            "$": "Media",
+            "title": "video_1",
+            "description": "video_1.mp4",
+            "source": {
+                "platform": {
+                    "uri": "/",
+                    "id": "local"
+                },
+                "uri": "test/resources/media/video_1.mp4",
+                "id": "video_1",
+                "releaseDate": "1970-01-01T00:00:00.000Z"
+            },
+            "creators": [
+                "Mike Miller"
+            ],
+            "duration": "0:00:06.038000"
+        }
+    ]
+}

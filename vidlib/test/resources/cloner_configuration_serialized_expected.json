@@ -1,0 +1,30 @@
+{
+    "feedManager": {
+        "id": "test_feed_manager",
+        "args": [
+            "test_arg",
+            "test_value"
+        ]
+    },
+    "downloader": {
+        "id": "test_downloader",
+        "args": [
+            "test_arg",
+            "test_value"
+        ]
+    },
+    "mediaConverter": {
+        "id": "test_media_converter",
+        "args": [
+            "test_arg",
+            "test_value"
+        ]
+    },
+    "uploader": {
+        "id": "test_uploader",
+        "args": [
+            "test_arg",
+            "test_value"
+        ]
+    }
+}

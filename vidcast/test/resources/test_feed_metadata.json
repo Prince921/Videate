@@ -1,0 +1,59 @@
+{
+    "$": "Feed",
+    "title": "Test Feed",
+    "subtitle": "A feed for testing",
+    "description": "A feed used for testing purposes",
+    "link": "http://videate.org",
+    "author": "John Doe",
+    "email": "john.doe@example.com",
+    "imageUrl": "http://example.com/example.jpg",
+    "image": "https://example.com/image.jpg",
+    "mediaList": [
+        {
+            "media": {
+                "title": "Six Second Video",
+                "description": "A six second video.",
+                "source": {
+                    "platform": {
+                        "uri": "/",
+                        "id": "local"
+                    },
+                    "uri": "https://example.com/sixsecond",
+                    "id": "six_second_video",
+                    "releaseDate": "1970-01-01T00:00:00.000Z"
+                },
+                "creators": [
+                    "John Doe",
+                    "Jane Doe"
+                ],
+                "duration": "0:06:00.00000"
+            },
+            "uri": "test/resources/media/six_second_video.mp4",
+            "etag": "abc111xyz",
+            "lengthInBytes": 56120
+        },
+        {
+            "media": {
+                "title": "Nine Second Video",
+                "description": "A nine second video.",
+                "source": {
+                    "platform": {
+                        "uri": "/",
+                        "id": "local"
+                    },
+                    "uri": "https://example.com/ninesecond",
+                    "id": "nine_second_video",
+                    "releaseDate": "1970-01-01T00:00:00.000Z"
+                },
+                "creators": [
+                    "Joe Schmoe",
+                    "Jane Q. Public"
+                ],
+                "duration": "0:09:00.00000"
+            },
+            "uri": "test/resources/media/nine_second_video.mp4",
+            "etag": "abc111xyz",
+            "lengthInBytes": 74929
+        }
+    ]
+}

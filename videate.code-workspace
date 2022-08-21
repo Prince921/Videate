@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "vidlib",
+			"path": "vidlib"
+		},
+		{
+			"name": "vidclone",
+			"path": "vidclone"
+		},
+		{
+			"name": "vidcast",
+			"path": "vidcast"
+		},
+		{
+			"name": "vidstore",
+			"path": "vidstore"
+		},
+		{
+			"name": "credits",
+			"path": "credits"
+		},
+		{
+			"name": "root_symlinks",
+			"path": "root_symlinks"
+		}
+	],
+	"launch": {
+		"compounds": [
+			{
+				"name": "All Tests",
+				"configurations": [
+					"VidLib Tests",
+					"VidClone Tests",
+					"VidCast Tests"
+				]
+			}
+		]
+	}
+}

@@ -19,3 +19,4 @@ COPY --from=build /app/bin/server /app/bin/
 # Start server.
 EXPOSE 8080
 CMD ["/app/bin/server"]
+RUN dart pub get
